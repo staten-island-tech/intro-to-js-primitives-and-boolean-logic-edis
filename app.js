@@ -24,7 +24,6 @@ if (kristyIntol === false && baobaoIntol === false) {
 
 
 
-
 // Temperature Question
 
 // if/else Loop
